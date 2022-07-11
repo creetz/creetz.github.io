@@ -1,4 +1,4 @@
-# PowerAutomate: Prozente in einer HTML-Tabelle
+## # PowerAutomate: Prozente in einer HTML-Tabelle
 Dieser Beitrag knüpft an den untenstehenden Beitrag an – Ist aber auch allein stehend verwendbar.
 Hier der Link zum Artikel und dar unterstehend die Ausgangssituation:
 

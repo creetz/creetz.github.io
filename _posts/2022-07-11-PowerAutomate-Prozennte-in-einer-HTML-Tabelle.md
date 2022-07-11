@@ -8,7 +8,7 @@ Wir beschäftigen uns hier mit dem Problem, dass als „Prozente definierte Wert
 Der Flow wird einmal die Woche gestartet und liest sämtliche Elemente einer SharePoint Liste ein.
 Die Elemente werden dann in einer „Create HTML table“ aufbereitet und dann per E-Mail versendet.
 
-![bild1](https://github.com/creetz/creetz.github.io/blob/master/images/Prozenzthema-bild1-1.png "bild1")
+![bild1](/images/Prozenzthema-bild1-1.png "bild1")
 
 Das Problem ist dann schnell erklärt:
 Wenn wir einen in SharePoint als Prozentzahl definierten Wert auswählen, wird dieser wie folgt in unserer E-Mail angezeigt.
